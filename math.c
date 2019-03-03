@@ -6,7 +6,7 @@ printf("we are calling  add function");
 }
 
 
-void main()
+void main(f1,f2)
 {
 add();
 
